@@ -29,3 +29,16 @@ Qualifier
 모듈 분리
 
 - [x] 내가 만든 DI 라이브러리를 모듈로 분리한다.
+
+## 4단계
+
+기능 요구 사항
+- [x] CartRepository는 앱 전체 LifeCycle 동안 유지되도록 구현한다.
+  - [x] ApplicationModule를 정의한다
+- [x] ProductRepository는 ViewModel LifeCycle 동안 유지되도록 구현한다.
+  - [x] ViewModelModule를 정의한다
+- [x] DateFormatter는 Activity LifeCycle 동안 유지되도록 구현한다.
+  - [x] ActivityModule를 정의한다
+
+## 라이브러리 구조 설명 링크
+[라이브러리 구조 설명] (https://giant-cloche-9c9.notion.site/di-7d7b96850eab4445bdb83753ad59945f?pvs=4)
