@@ -1,3 +1,6 @@
+## 라이브러리 구조 설명 링크
+[라이브러리 구조 설명](https://giant-cloche-9c9.notion.site/di-7d7b96850eab4445bdb83753ad59945f?pvs=4)
+
 # android-di
 
 ## 2단계
@@ -39,6 +42,3 @@ Qualifier
   - [x] ViewModelModule를 정의한다
 - [x] DateFormatter는 Activity LifeCycle 동안 유지되도록 구현한다.
   - [x] ActivityModule를 정의한다
-
-## 라이브러리 구조 설명 링크
-[라이브러리 구조 설명] (https://giant-cloche-9c9.notion.site/di-7d7b96850eab4445bdb83753ad59945f?pvs=4)
